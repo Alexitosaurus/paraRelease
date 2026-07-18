@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: paraRelease
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/alexitosaurus/paraRelease
+Author: Alexito
+Author-email: alexitop@hotmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary

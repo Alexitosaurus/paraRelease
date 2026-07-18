@@ -1,0 +1,7 @@
+README.md
+setup.py
+paraRelease/__init__.py
+paraRelease.egg-info/PKG-INFO
+paraRelease.egg-info/SOURCES.txt
+paraRelease.egg-info/dependency_links.txt
+paraRelease.egg-info/top_level.txt
